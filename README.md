@@ -1,3 +1,5 @@
+本项目包含了经典Python机器学习入门书籍《机器学习系统设计》的源码和数据。
+
 Building Machine Learning Systems with Python
 =============================================
 
